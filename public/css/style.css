@@ -1,0 +1,46 @@
+.logo{
+    color: #3c67a1 !important;
+    font-weight: bold;
+    font-size: 50px;
+}
+.texto-organizar{
+    font-size: 45px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.practica{
+    margin-top: 75px;
+}
+.btn-organizar{
+    font-size: 20px;
+}
+.footer{
+    background-color: #173154 ;
+}
+.mony{
+    font-size:80px;
+    text-align: center;
+    letter-spacing: 20px;
+}
+.nosotros{
+    margin-top: 30px;
+    margin-bottom: 30px ;
+}
+.redes
+{
+    margin-top: 50px;
+    font-size: 40px;
+}
+.blog
+{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+.siguenos{
+    font-size: 20px;
+    text-align: center;
+}
+.posicion{
+    height: 114px;
+}
